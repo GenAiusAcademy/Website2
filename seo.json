@@ -1,0 +1,30 @@
+{
+  "siteName": "GenAius Academy",
+  "domain": "genaiusacademy.ae",
+  "pages": [
+    {
+      "path": "/index.html",
+      "title": "GenAius Academy \u2013 Cybersecurity \u2022 AI \u2022 Coding \u2022 Chess"
+    },
+    {
+      "path": "/cyber.html",
+      "title": "Cybersecurity & Ethical Hacking \u2013 GenAius Academy"
+    },
+    {
+      "path": "/ai.html",
+      "title": "AI & Smart Productivity Coaching \u2013 GenAius Academy"
+    },
+    {
+      "path": "/python.html",
+      "title": "Python & Coding Bootcamps \u2013 GenAius Academy"
+    },
+    {
+      "path": "/chess.html",
+      "title": "Chess Coaching & Tournaments \u2013 GenAius Academy"
+    },
+    {
+      "path": "/contact.html",
+      "title": "Contact GenAius Academy"
+    }
+  ]
+}

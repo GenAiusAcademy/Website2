@@ -1,0 +1,1 @@
+(function(){console.log('GenAius Academy script loaded');})();
